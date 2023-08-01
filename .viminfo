@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1690892664,,"wq!"
+|2,0,1690912798,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,52 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/sonali.html
-|4,48,2,0,1690892664,"~/sonali.html"
+'0  1  7  ~/contact.html
+|4,48,1,7,1690912798,"~/contact.html"
+'1  1  3  ~/.git/TAG_EDITMSG
+|4,49,1,3,1690894788,"~/.git/TAG_EDITMSG"
+'2  2  0  ~/sonali.html
+|4,50,2,0,1690892664,"~/sonali.html"
 
 # Jumplist (newest first):
+-'  1  7  ~/contact.html
+|4,39,1,7,1690912798,"~/contact.html"
+-'  1  3  ~/.git/TAG_EDITMSG
+|4,39,1,3,1690894788,"~/.git/TAG_EDITMSG"
+-'  1  3  ~/.git/TAG_EDITMSG
+|4,39,1,3,1690894788,"~/.git/TAG_EDITMSG"
+-'  2  0  ~/sonali.html
+|4,39,2,0,1690892664,"~/sonali.html"
+-'  2  0  ~/sonali.html
+|4,39,2,0,1690892664,"~/sonali.html"
+-'  2  0  ~/sonali.html
+|4,39,2,0,1690892664,"~/sonali.html"
 -'  2  0  ~/sonali.html
 |4,39,2,0,1690892664,"~/sonali.html"
 -'  1  0  ~/sonali.html
 |4,39,1,0,1690892651,"~/sonali.html"
+-'  1  0  ~/sonali.html
+|4,39,1,0,1690892651,"~/sonali.html"
+-'  1  0  ~/sonali.html
+|4,39,1,0,1690892651,"~/sonali.html"
+-'  1  0  ~/sonali.html
+|4,39,1,0,1690892651,"~/sonali.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/contact.html
+	*	1690912794	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/.git/TAG_EDITMSG
+	*	1690894786	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
 > ~/sonali.html
 	*	1690892662	0
